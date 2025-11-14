@@ -41,7 +41,7 @@ Here are some of my key projects:
 
 ## 📫 Contact Me
 - 📧 *Email:* rakshithakn698@gmail.com (replace with your real email if you’d like)  
-- 🖥 *GitHub:* [github.com/Bindu-sudo](https://github.com/Bindu-sudo)
+- 🖥 *GitHub:* https://github.com/rakshitha-arch
 
 ---
 
